@@ -1,0 +1,16 @@
+format-version: 1.4
+data-version: 1.0
+date: 12:10:2021 18:47
+property_value: http://purl.org/dc/elements/1.1/description "NeST: Nested Systems in Tumors" xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "NeST" xsd:string
+property_value: IAO:0000700 NEST
+
+[Term]
+id: DOID:4
+name: disease
+
+[Term]
+id: DOID:225
+name: syndrome
+relationship: part_of DOID:4 ! disease
+

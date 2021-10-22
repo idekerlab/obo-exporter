@@ -1,0 +1,1093 @@
+format-version: 1.4
+data-version: 1.0
+date: 21:10:2021 22:41:47
+property_value: http://purl.org/dc/elements/1.1/description "NeST: Nested Systems in Tumors" xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "NeST" xsd:string
+property_value: IAO:0000700 NEST
+
+[Term]
+id: NEST:1
+name: Other signaling processes
+relationship: part_of NEST:38 ! Transmembrane receptor tyrosine kinase signaling
+relationship: part_of NEST:132 ! EGF/FGF stimulation of cell proliferation
+relationship: part_of NEST:60 ! Nuclear receptor transcription pathway
+relationship: part_of NEST:32 ! Ubiquitination and neddylation
+relationship: part_of NEST:28 ! Generic transcription pathway
+relationship: part_of NEST:12 ! Membrane trafficking
+relationship: part_of NEST:143 ! JNK pathway regulation of TP53
+relationship: part_of NEST:108 ! Adherens junction
+relationship: part_of NEST:73 ! MAPK signaling
+relationship: part_of NEST:52 ! AKT/activin signaling
+relationship: part_of NEST:81 ! TGF-beta pathway/SMAD protein complex
+relationship: part_of NEST:230 ! PGAM5-KEAP1-NRF2 complex
+relationship: part_of NEST:118 ! Kelch-like (KLHL) gene family
+relationship: part_of NEST:308 ! Phospholipase D regulation
+relationship: part_of NEST:115 ! Lysosome part
+relationship: part_of NEST:287 ! Activation of gene expression by SREBF (SREBP)
+relationship: part_of NEST:24 ! Keratinization
+relationship: part_of NEST:83 ! TNF signaling pathway
+relationship: part_of NEST:174 ! Extended beta-catenin destruction complex
+relationship: part_of NEST:153 ! PIK3-EGFR signaling
+relationship: part_of NEST:122 ! MAP kinases
+relationship: part_of NEST:120 ! Protein kinase A binding
+relationship: part_of NEST:137 ! AKT/MTOR pathway II
+relationship: part_of NEST:145 ! AKT/MTOR pathway I
+relationship: part_of NEST:47 ! Apoptosis
+relationship: part_of NEST:354 ! Dynactin
+relationship: part_of NEST:95 ! Digestion of dietary lipid
+relationship: part_of NEST:256 ! FGFR-ERBB-RAS signaling
+relationship: part_of NEST:356 ! Components of apical/basal cell polarity establishment
+relationship: part_of NEST:156 ! NEST:156
+relationship: part_of NEST:254 ! EGFR-insulin receptor cross-talk
+relationship: part_of NEST:164 ! Ubiquitin E3 ligase (SKP1, BTRC, FBXW11)
+relationship: part_of NEST:70 ! BRCA1 mediated protein ubiquitination
+relationship: part_of NEST:176 ! MPP7-DLG1-LIN7 polarity complex
+relationship: part_of NEST:198 ! p300-CBP ID pathway association
+relationship: part_of NEST:162 ! NEST:162
+relationship: part_of NEST:138 ! PIK3/AKT/PTEN signaling
+relationship: part_of NEST:169 ! AKT1 activation
+relationship: part_of NEST:152 ! NEST:152
+relationship: part_of NEST:192 ! Respiratory electron transport chain
+relationship: part_of NEST:298 ! Proximal RTK signaling
+relationship: part_of NEST:332 ! Inflammasome complex
+relationship: part_of NEST:380 ! RBPJ-NOTCH1-MAML1 complex
+relationship: part_of NEST:265 ! Retinoid metabolism and transport
+relationship: part_of NEST:221 ! Non-canonical Wnt signaling pathway
+relationship: part_of NEST:273 ! Notch1-GSK3b crosstalk
+relationship: part_of NEST:246 ! NEST:246
+relationship: part_of NEST:220 ! 3-hydroxyacyl-CoA dehydrogenase activity
+relationship: part_of NEST:361 ! ERBB/FGFR growth receptor dimers
+relationship: part_of NEST:127 ! Intrinsic pathway for apoptosis
+
+[Term]
+id: NEST:217
+name: Collagens I, III, V, VI
+relationship: part_of NEST:284 ! Collagen I, III, V
+
+[Term]
+id: NEST:206
+name: Mediator core complex
+relationship: part_of NEST:342 ! CDK8-MED12/13 complex
+
+[Term]
+id: NEST:216
+name: Transcription factor TFIID core complex
+relationship: part_of NEST:393 ! Transcription factor TFIID subcomplex I
+
+[Term]
+id: NEST:205
+name: Adherens junction parts
+relationship: part_of NEST:282 ! Catenin E-cadherin interaction
+
+[Term]
+id: NEST:188
+name: Nuclear pore outer ring
+relationship: part_of NEST:386 ! Nup107-133 complex
+relationship: part_of NEST:387 ! Nuclear pore part II
+
+[Term]
+id: NEST:193
+name: Resolution of D-loop structures
+relationship: part_of NEST:327 ! BRCC/BLM complex
+
+[Term]
+id: NEST:196
+name: Cohesin complex
+relationship: part_of NEST:385 ! Cohesin loading complex formation
+
+[Term]
+id: NEST:141
+name: AKAP-PKA complex
+relationship: part_of NEST:313 ! AKAP-centrosome pathway
+
+[Term]
+id: NEST:160
+name: Transcription factor TFIID
+relationship: part_of NEST:216 ! Transcription factor TFIID core complex
+
+[Term]
+id: NEST:163
+name: NEST:163
+relationship: part_of NEST:371 ! NCOR-HDAC3 complex
+
+[Term]
+id: NEST:182
+name: Beta-catenin-TCF complex
+relationship: part_of NEST:264 ! EGFR/beta-catenin crosstalk
+
+[Term]
+id: NEST:142
+name: EGF/beta-catenin signaling
+relationship: part_of NEST:264 ! EGFR/beta-catenin crosstalk
+relationship: part_of NEST:205 ! Adherens junction parts
+
+[Term]
+id: NEST:170
+name: Phosphatase 2A catalytic subunit
+relationship: part_of NEST:388 ! Phosphatase 2A catalytic core complex subunit I
+relationship: part_of NEST:310 ! Phosphatase 2A catalytic core complex subunit II
+
+[Term]
+id: NEST:150
+name: G1 to S cell cycle control
+relationship: part_of NEST:336 ! CDK4/6-cyclin complex
+
+[Term]
+id: NEST:185
+name: Rho GTPases acitvating ROCKs
+relationship: part_of NEST:391 ! Rho-dependent kinase activity
+
+[Term]
+id: NEST:181
+name: Nup107-160 complex
+relationship: part_of NEST:386 ! Nup107-133 complex
+
+[Term]
+id: NEST:135
+name: Nuclear pore part I
+relationship: part_of NEST:188 ! Nuclear pore outer ring
+
+[Term]
+id: NEST:129
+name: BAF (SWI/SNF) complex
+relationship: part_of NEST:321 ! BAF complex subunit
+relationship: part_of NEST:320 ! BAF complex subunit III
+relationship: part_of NEST:268 ! SS18L1 subunit of BAF chromatin remodeling complex
+relationship: part_of NEST:237 ! BAF complex subunit II
+
+[Term]
+id: NEST:159
+name: Mediator subcomplex
+relationship: part_of NEST:206 ! Mediator core complex
+
+[Term]
+id: NEST:234
+name: IL-6 family signaling
+relationship: part_of NEST:370 ! JAK-SHP2 complex
+
+[Term]
+id: NEST:114
+name: TATA-Box binding protein associated factors
+relationship: part_of NEST:160 ! Transcription factor TFIID
+
+[Term]
+id: NEST:207
+name: eIF4 complex/mRNA poly-A binding
+relationship: part_of NEST:255 ! Eukaryotic translation initiation factor 4F complex
+
+[Term]
+id: NEST:218
+name: Microfibril-collagen assembly
+relationship: part_of NEST:285 ! Fibronectin-collagen
+
+[Term]
+id: NEST:179
+name: Fibrillar collagens
+relationship: part_of NEST:217 ! Collagens I, III, V, VI
+
+[Term]
+id: NEST:104
+name: MAPK and MAP2K activation
+relationship: part_of NEST:212 ! RAS-RAF-MAPK signaling
+
+[Term]
+id: NEST:87
+name: Extended SAGA-type complex
+relationship: part_of NEST:394 ! Transcription factor TFIID subcomplex II
+relationship: part_of NEST:114 ! TATA-Box binding protein associated factors
+
+[Term]
+id: NEST:111
+name: Nucleoporins
+relationship: part_of NEST:304 ! Nuclear pore part III
+relationship: part_of NEST:135 ! Nuclear pore part I
+
+[Term]
+id: NEST:93
+name: tRNA transport
+relationship: part_of NEST:181 ! Nup107-160 complex
+relationship: part_of NEST:135 ! Nuclear pore part I
+
+[Term]
+id: NEST:86
+name: Extended translation preinitiation complex
+relationship: part_of NEST:207 ! eIF4 complex/mRNA poly-A binding
+
+[Term]
+id: NEST:109
+name: Extended BTG/CCR4-NOT complex
+relationship: part_of NEST:346 ! CCR4-NOT regulation of IKK/NF-kB pathway
+relationship: part_of NEST:128 ! BTG/CCR4-NOT complex
+
+[Term]
+id: NEST:71
+name: Spliceosomal tri-snRNP complex assembly
+relationship: part_of NEST:249 ! U2-type catalytic step 2 spliceosome
+relationship: part_of NEST:183 ! Prp19 complex
+relationship: part_of NEST:148 ! Spliceosomal tri-snRNP subcomplex
+relationship: part_of NEST:131 ! U12-type spliceosomal complex
+
+[Term]
+id: NEST:82
+name: Extended PRC1 complex
+relationship: part_of NEST:326 ! BCOR complex-mediated transcriptional repression
+
+[Term]
+id: NEST:80
+name: NEST:80
+relationship: part_of NEST:367 ! VEGF and receptors
+
+[Term]
+id: NEST:119
+name: Regulation of E2F transcription via DREAM complex
+relationship: part_of NEST:293 ! RBL-TP53 complex
+relationship: part_of NEST:199 ! Oncogene induced senescence
+
+[Term]
+id: NEST:102
+name: CDK holoenzyme complex II
+relationship: part_of NEST:150 ! G1 to S cell cycle control
+
+[Term]
+id: NEST:99
+name: NuA4 histone acetyltransferase complex
+relationship: part_of NEST:373 ! NuA4-HAT subunit I
+relationship: part_of NEST:245 ! NuA4-HAT subunit II
+
+[Term]
+id: NEST:144
+name: Complement activation alternative pathway
+relationship: part_of NEST:331 ! Complement activation alternative pathway II
+relationship: part_of NEST:224 ! Complement activation alternative pathway I
+
+[Term]
+id: NEST:116
+name: Protein phosphatase type 2A complex
+relationship: part_of NEST:170 ! Phosphatase 2A catalytic subunit
+
+[Term]
+id: NEST:151
+name: Chemokine mediated migration and activation
+relationship: part_of NEST:353 ! NEST:353
+
+[Term]
+id: NEST:171
+name: ECM constituent
+relationship: part_of NEST:347 ! Laminin-collagen association II
+
+[Term]
+id: NEST:74
+name: Collagen related ECM components
+relationship: part_of NEST:347 ! Laminin-collagen association II
+relationship: part_of NEST:349 ! Laminin-collagen association I
+relationship: part_of NEST:286 ! Control of cell-matrix interaction and angiogenesis
+relationship: part_of NEST:218 ! Microfibril-collagen assembly
+relationship: part_of NEST:179 ! Fibrillar collagens
+
+[Term]
+id: NEST:110
+name: CDK holoenzyme complex I
+relationship: part_of NEST:150 ! G1 to S cell cycle control
+
+[Term]
+id: NEST:91
+name: NEST:91
+relationship: part_of NEST:177 ! TP53 regulates transcription of cell cycle genes
+
+[Term]
+id: NEST:64
+name: VEGF pathway
+relationship: part_of NEST:80 ! NEST:80
+
+[Term]
+id: NEST:166
+name: PIK3CA-actomyosin complex
+relationship: part_of NEST:303 ! PIK3CA-actomyosin core complex
+
+[Term]
+id: NEST:68
+name: RNA degradation
+relationship: part_of NEST:109 ! Extended BTG/CCR4-NOT complex
+
+[Term]
+id: NEST:69
+name: SUMOylation for nuclear transport
+relationship: part_of NEST:111 ! Nucleoporins
+relationship: part_of NEST:93 ! tRNA transport
+
+[Term]
+id: NEST:63
+name: Actin and actin-associated proteins
+relationship: part_of NEST:312 ! NEST:312
+relationship: part_of NEST:236 ! Actinin-myosin
+relationship: part_of NEST:180 ! Regulation of actin-filament dynamics
+relationship: part_of NEST:166 ! PIK3CA-actomyosin complex
+
+[Term]
+id: NEST:96
+name: Pre-mRNA splicing complex part I
+relationship: part_of NEST:275 ! Pre-mRNA splicing subcomplex
+relationship: part_of NEST:259 ! NEST:259
+
+[Term]
+id: NEST:212
+name: RAS-RAF-MAPK signaling
+relationship: part_of NEST:328 ! RAS/BRAF complex
+
+[Term]
+id: NEST:197
+name: Interleukin-6 family signaling
+relationship: part_of NEST:234 ! IL-6 family signaling
+
+[Term]
+id: NEST:89
+name: Erb and JAK-STAT signaling
+relationship: part_of NEST:359 ! EGFR/Her2/Her3 signaling
+relationship: part_of NEST:358 ! GRB7 events in ERBB2 signaling
+relationship: part_of NEST:295 ! EGFR/Her4 signaling
+relationship: part_of NEST:234 ! IL-6 family signaling
+
+[Term]
+id: NEST:56
+name: Complement and coagulation cascades
+relationship: part_of NEST:316 ! Albumin/Alipoprotein
+relationship: part_of NEST:278 ! Thrombosis I
+relationship: part_of NEST:262 ! Fatty acid metabolism in the liver
+relationship: part_of NEST:257 ! NEST:257
+relationship: part_of NEST:248 ! Fibrinogen complex
+relationship: part_of NEST:247 ! Thrombosis II
+relationship: part_of NEST:191 ! LXR/RXR activation
+relationship: part_of NEST:175 ! Fibrinolysis
+relationship: part_of NEST:144 ! Complement activation alternative pathway
+
+[Term]
+id: NEST:43
+name: Type I interferon signaling pathway
+relationship: part_of NEST:360 ! RNAse L activation
+relationship: part_of NEST:301 ! RNAse L activation II
+
+[Term]
+id: NEST:46
+name: Spliceosome
+relationship: part_of NEST:71 ! Spliceosomal tri-snRNP complex assembly
+relationship: part_of NEST:355 ! NEST:355
+relationship: part_of NEST:200 ! U2 snRNP extended
+
+[Term]
+id: NEST:51
+name: ECM-cytoskeleton assembly
+relationship: part_of NEST:379 ! NEST:379
+relationship: part_of NEST:348 ! ECM constituent II
+relationship: part_of NEST:187 ! Basement membrane glycoproteins
+relationship: part_of NEST:171 ! ECM constituent
+relationship: part_of NEST:74 ! Collagen related ECM components
+
+[Term]
+id: NEST:130
+name: Homologous recombination
+relationship: part_of NEST:276 ! CHEK1 activation
+relationship: part_of NEST:193 ! Resolution of D-loop structures
+
+[Term]
+id: NEST:101
+name: Anaphase-promoting complex
+relationship: part_of NEST:319 ! Anaphase-promoting complex subunit
+relationship: part_of NEST:223 ! Anaphase-promoting complex binding
+
+[Term]
+id: NEST:59
+name: Chromosome centrometric region
+relationship: part_of NEST:383 ! Condensin I complex
+relationship: part_of NEST:147 ! Centrosomal kinesins
+
+[Term]
+id: NEST:76
+name: Contractile fiber parts
+relationship: part_of NEST:381 ! Muscle filament sliding
+
+[Term]
+id: NEST:62
+name: Pre-mRNA splicing complex
+relationship: part_of NEST:157 ! Pre-mRNA splicing complex part II
+relationship: part_of NEST:96 ! Pre-mRNA splicing complex part I
+
+[Term]
+id: NEST:35
+name: Spliceosomal complex
+relationship: part_of NEST:389 ! Spliceosome B complex subunit
+relationship: part_of NEST:46 ! Spliceosome
+
+[Term]
+id: NEST:41
+name: Cornification
+relationship: part_of NEST:291 ! Desmosome subcomplex
+relationship: part_of NEST:297 ! Cornified envelope part
+
+[Term]
+id: NEST:54
+name: Cell-extracellular matrix interactions
+relationship: part_of NEST:201 ! Actin-tropomyosin
+
+[Term]
+id: NEST:48
+name: Actin cytoskeleton
+relationship: part_of NEST:366 ! NEST:366
+relationship: part_of NEST:312 ! NEST:312
+relationship: part_of NEST:302 ! NEST:302
+relationship: part_of NEST:236 ! Actinin-myosin
+relationship: part_of NEST:166 ! PIK3CA-actomyosin complex
+relationship: part_of NEST:124 ! PIK3CA-actomyosin complex II
+
+[Term]
+id: NEST:40
+name: Actin filaments
+relationship: part_of NEST:260 ! NEST:260
+relationship: part_of NEST:201 ! Actin-tropomyosin
+relationship: part_of NEST:124 ! PIK3CA-actomyosin complex II
+relationship: part_of NEST:63 ! Actin and actin-associated proteins
+
+[Term]
+id: NEST:27
+name: Contractile fiber
+relationship: part_of NEST:330 ! NEST:330
+relationship: part_of NEST:76 ! Contractile fiber parts
+
+[Term]
+id: NEST:31
+name: Extracellular matrix
+relationship: part_of NEST:317 ! NEST:317
+relationship: part_of NEST:51 ! ECM-cytoskeleton assembly
+
+[Term]
+id: NEST:39
+name: Regulation of mRNA processing
+relationship: part_of NEST:283 ! Non-sense mediated MRN decay
+relationship: part_of NEST:157 ! Pre-mRNA splicing complex part II
+relationship: part_of NEST:96 ! Pre-mRNA splicing complex part I
+
+[Term]
+id: NEST:75
+name: Phagocytosis Pathway
+relationship: part_of NEST:240 ! Lymphocyte-endothelium interaction
+relationship: part_of NEST:154 ! Phagocytic vesicle
+relationship: part_of NEST:151 ! Chemokine mediated migration and activation
+
+[Term]
+id: NEST:202
+name: MHC class I including non-classical MHCs
+relationship: part_of NEST:325 ! MHC-I complex, TAP-independent
+
+[Term]
+id: NEST:26
+name: Spliceosomal-snRNP complex
+relationship: part_of NEST:300 ! NEST:300
+relationship: part_of NEST:173 ! Non U2-type catalytic step 2 spliceosome
+relationship: part_of NEST:62 ! Pre-mRNA splicing complex
+relationship: part_of NEST:35 ! Spliceosomal complex
+
+[Term]
+id: NEST:49
+name: NEST:49
+relationship: part_of NEST:64 ! VEGF pathway
+
+[Term]
+id: NEST:79
+name: Recombinational repair
+relationship: part_of NEST:130 ! Homologous recombination
+
+[Term]
+id: NEST:65
+name: Cell cycle arrest
+relationship: part_of NEST:293 ! RBL-TP53 complex
+relationship: part_of NEST:199 ! Oncogene induced senescence
+relationship: part_of NEST:186 ! MDM2-p53 pathway
+relationship: part_of NEST:177 ! TP53 regulates transcription of cell cycle genes
+
+[Term]
+id: NEST:55
+name: Nucleosome remodeling
+relationship: part_of NEST:343 ! CHD-mediated centrosome integrity
+relationship: part_of NEST:242 ! SAP complex
+
+[Term]
+id: NEST:50
+name: Regulation of CDK activity
+relationship: part_of NEST:383 ! Condensin I complex
+relationship: part_of NEST:293 ! RBL-TP53 complex
+relationship: part_of NEST:244 ! BRCA1-IRIS-pre-replication complex
+relationship: part_of NEST:130 ! Homologous recombination
+relationship: part_of NEST:110 ! CDK holoenzyme complex I
+relationship: part_of NEST:91 ! NEST:91
+
+[Term]
+id: NEST:30
+name: DNA metabolic process
+relationship: part_of NEST:277 ! MutL alpha/beta complex
+relationship: part_of NEST:244 ! BRCA1-IRIS-pre-replication complex
+relationship: part_of NEST:231 ! MutS homologs
+relationship: part_of NEST:130 ! Homologous recombination
+relationship: part_of NEST:101 ! Anaphase-promoting complex
+relationship: part_of NEST:59 ! Chromosome centrometric region
+
+[Term]
+id: NEST:209
+name: NEST:209
+relationship: part_of NEST:344 ! CHEK2-spectrin complex
+
+[Term]
+id: NEST:100
+name: Rho signaling
+relationship: part_of NEST:266 ! Rho GDP-dissociation inhibitor binding
+relationship: part_of NEST:185 ! Rho GTPases acitvating ROCKs
+
+[Term]
+id: NEST:200
+name: U2 snRNP extended
+relationship: part_of NEST:307 ! RNA binding platform of SF3b complex
+relationship: part_of NEST:258 ! U2 snRNP
+
+[Term]
+id: NEST:131
+name: U12-type spliceosomal complex
+relationship: part_of NEST:258 ! U2 snRNP
+
+[Term]
+id: NEST:67
+name: Translation factors
+relationship: part_of NEST:86 ! Extended translation preinitiation complex
+
+[Term]
+id: NEST:21
+name: Protein processing in endoplasmic reticulum
+relationship: part_of NEST:369 ! Golgi cisternae pericentriolar stack reorganization
+relationship: part_of NEST:253 ! NEST:253
+
+[Term]
+id: NEST:37
+name: Blood microparticles
+relationship: part_of NEST:232 ! Acute phase response
+relationship: part_of NEST:56 ! Complement and coagulation cascades
+
+[Term]
+id: NEST:139
+name: Cdc73-Paf1/FACT complex
+relationship: part_of NEST:227 ! FACT complex
+
+[Term]
+id: NEST:121
+name: Extended cohesin complex
+relationship: part_of NEST:219 ! Cohesin/BAF complex association
+relationship: part_of NEST:196 ! Cohesin complex
+
+[Term]
+id: NEST:106
+name: Histone ubiquitination and organization
+relationship: part_of NEST:250 ! H2BUb1 ubiquitination
+
+[Term]
+id: NEST:98
+name: Histone methyltransferase complex
+relationship: part_of NEST:133 ! Histone methyltransferase subcomplex
+
+[Term]
+id: NEST:92
+name: Polybromo- and BAF containing complex
+relationship: part_of NEST:267 ! Non-canonical BAF complex
+relationship: part_of NEST:241 ! Non-canonical BAF complex II
+relationship: part_of NEST:129 ! BAF (SWI/SNF) complex
+
+[Term]
+id: NEST:34
+name: Histone modification
+relationship: part_of NEST:329 ! NEST:329
+relationship: part_of NEST:194 ! Histone and DNA methyltransferases
+relationship: part_of NEST:55 ! Nucleosome remodeling
+
+[Term]
+id: NEST:19
+name: mRNA splicing
+relationship: part_of NEST:334 ! RNA N6-methyladenosine methyltransferase complex
+relationship: part_of NEST:368 ! NEST:368
+relationship: part_of NEST:252 ! NEST:252
+relationship: part_of NEST:39 ! Regulation of mRNA processing
+relationship: part_of NEST:26 ! Spliceosomal-snRNP complex
+
+[Term]
+id: NEST:88
+name: Extended CCT complex
+relationship: part_of NEST:338 ! CCT complex alpha
+relationship: part_of NEST:339 ! Inhibition of CCT complex
+relationship: part_of NEST:204 ! CCT complex activation of anaphase-promoting complex
+
+[Term]
+id: NEST:33
+name: Ribosome abundance control
+relationship: part_of NEST:390 ! Proteasome 26S subunit part
+relationship: part_of NEST:305 ! NEST:305
+
+[Term]
+id: NEST:13
+name: Ribosome biogenesis
+relationship: part_of NEST:190 ! NEST:190
+relationship: part_of NEST:67 ! Translation factors
+
+[Term]
+id: NEST:25
+name: Lymphocyte activation
+relationship: part_of NEST:340 ! T-cell anergy
+relationship: part_of NEST:215 ! Regulation of interleukin production
+relationship: part_of NEST:202 ! MHC class I including non-classical MHCs
+relationship: part_of NEST:167 ! Lymphocyte cell-cell adhesion
+relationship: part_of NEST:172 ! T cell receptor complex
+relationship: part_of NEST:75 ! Phagocytosis Pathway
+
+[Term]
+id: NEST:18
+name: Regulation of immune responses
+relationship: part_of NEST:299 ! Recognition of HLA by NK cells
+relationship: part_of NEST:202 ! MHC class I including non-classical MHCs
+relationship: part_of NEST:172 ! T cell receptor complex
+
+[Term]
+id: NEST:11
+name: Metabolic pathways
+relationship: part_of NEST:203 ! Complement activation, classical pathway components
+relationship: part_of NEST:37 ! Blood microparticles
+
+[Term]
+id: NEST:225
+name: Regulation of Rac/Rho signaling
+relationship: part_of NEST:391 ! Rho-dependent kinase activity
+
+[Term]
+id: NEST:23
+name: Actin filament-based process
+relationship: part_of NEST:54 ! Cell-extracellular matrix interactions
+relationship: part_of NEST:48 ! Actin cytoskeleton
+relationship: part_of NEST:40 ! Actin filaments
+
+[Term]
+id: NEST:90
+name: Mediator complex
+relationship: part_of NEST:365 ! FBXW7-mediator association
+relationship: part_of NEST:159 ! Mediator subcomplex
+
+[Term]
+id: NEST:85
+name: NEST:85
+relationship: part_of NEST:373 ! NuA4-HAT subunit I
+
+[Term]
+id: NEST:72
+name: Basal transcription factors
+relationship: part_of NEST:165 ! Transcription coactivator activity
+relationship: part_of NEST:87 ! Extended SAGA-type complex
+
+[Term]
+id: NEST:66
+name: PcG protein complex
+relationship: part_of NEST:82 ! Extended PRC1 complex
+
+[Term]
+id: NEST:57
+name: Histone acetyltransferase complex
+relationship: part_of NEST:99 ! NuA4 histone acetyltransferase complex
+
+[Term]
+id: NEST:10
+name: mRNA processing
+relationship: part_of NEST:373 ! NuA4-HAT subunit I
+relationship: part_of NEST:392 ! NEST:392
+relationship: part_of NEST:318 ! NEST:318
+relationship: part_of NEST:324 ! NEST:324
+relationship: part_of NEST:309 ! RNA pol II-BAF complex association
+relationship: part_of NEST:178 ! NEST:178
+relationship: part_of NEST:155 ! H3 acetylation and H3K4 methylation crosstalk
+relationship: part_of NEST:139 ! Cdc73-Paf1/FACT complex
+relationship: part_of NEST:121 ! Extended cohesin complex
+relationship: part_of NEST:106 ! Histone ubiquitination and organization
+relationship: part_of NEST:98 ! Histone methyltransferase complex
+relationship: part_of NEST:92 ! Polybromo- and BAF containing complex
+relationship: part_of NEST:34 ! Histone modification
+relationship: part_of NEST:19 ! mRNA splicing
+
+[Term]
+id: NEST:20
+name: Extracellular matrix organization
+relationship: part_of NEST:350 ! Basement membrane collagens
+relationship: part_of NEST:233 ! Integrin binding
+relationship: part_of NEST:31 ! Extracellular matrix
+
+[Term]
+id: NEST:16
+name: NEST:16
+relationship: part_of NEST:261 ! NEST:261
+relationship: part_of NEST:49 ! NEST:49
+
+[Term]
+id: NEST:14
+name: Cytoskeleton
+relationship: part_of NEST:311 ! NCK-cytoskeletal signaling
+relationship: part_of NEST:363 ! NEST:363
+relationship: part_of NEST:281 ! Regulation of lamellipodium assembly
+relationship: part_of NEST:225 ! Regulation of Rac/Rho signaling
+relationship: part_of NEST:209 ! NEST:209
+relationship: part_of NEST:100 ! Rho signaling
+relationship: part_of NEST:23 ! Actin filament-based process
+
+[Term]
+id: NEST:228
+name: Extended NCOR complex
+relationship: part_of NEST:371 ! NCOR-HDAC3 complex
+
+[Term]
+id: NEST:177
+name: TP53 regulates transcription of cell cycle genes
+relationship: part_of NEST:214 ! Transcriptional regulation by TP53 via histone acetyltransferase
+
+[Term]
+id: NEST:149
+name: CUL-RING ubiquitin E3 ligase
+relationship: part_of NEST:351 ! Ubiquitin E3 ligase (FBXW7, CUL1, SKP1A, RBX1)
+
+[Term]
+id: NEST:107
+name: HDACs deacetylate histones
+relationship: part_of NEST:210 ! Regulation of androgen receptor signaling pathway
+relationship: part_of NEST:163 ! NEST:163
+
+[Term]
+id: NEST:44
+name: Nuclear transport
+relationship: part_of NEST:103 ! Nuclear periphery
+relationship: part_of NEST:69 ! SUMOylation for nuclear transport
+
+[Term]
+id: NEST:42
+name: Transcription elongation
+relationship: part_of NEST:139 ! Cdc73-Paf1/FACT complex
+relationship: part_of NEST:106 ! Histone ubiquitination and organization
+
+[Term]
+id: NEST:17
+name: Ribonucleoprotein complexes II
+relationship: part_of NEST:283 ! Non-sense mediated MRN decay
+relationship: part_of NEST:235 ! NEST:235
+relationship: part_of NEST:26 ! Spliceosomal-snRNP complex
+
+[Term]
+id: NEST:9
+name: Ribonucleoprotein complexes
+relationship: part_of NEST:88 ! Extended CCT complex
+relationship: part_of NEST:33 ! Ribosome abundance control
+relationship: part_of NEST:13 ! Ribosome biogenesis
+
+[Term]
+id: NEST:6
+name: Regulation of transcription
+relationship: part_of NEST:123 ! PML body
+relationship: part_of NEST:113 ! DNA-directed RNA polymerase II, holoenzyme
+relationship: part_of NEST:112 ! Androgen receptor signaling pathway
+relationship: part_of NEST:90 ! Mediator complex
+relationship: part_of NEST:85 ! NEST:85
+relationship: part_of NEST:78 ! NEST:78
+relationship: part_of NEST:72 ! Basal transcription factors
+relationship: part_of NEST:66 ! PcG protein complex
+relationship: part_of NEST:57 ! Histone acetyltransferase complex
+relationship: part_of NEST:10 ! mRNA processing
+relationship: part_of NEST:387 ! Nuclear pore part II
+relationship: part_of NEST:337 ! Cyclin CDK12/13 complex
+relationship: part_of NEST:341 ! NEST:341
+relationship: part_of NEST:371 ! NCOR-HDAC3 complex
+relationship: part_of NEST:272 ! NEST:272
+relationship: part_of NEST:279 ! NEST:279
+relationship: part_of NEST:222 ! PR-DUB complex, histone ubiquitination
+relationship: part_of NEST:229 ! Regulation of telomere length by TIP60-HAT complex
+relationship: part_of NEST:214 ! Transcriptional regulation by TP53 via histone acetyltransferase
+relationship: part_of NEST:140 ! AFF4 super elongation complex (SEC)
+
+[Term]
+id: NEST:146
+name: SMAD-TGFbeta signaling
+relationship: part_of NEST:378 ! NEST:378
+
+[Term]
+id: NEST:105
+name: Protein neddylation
+relationship: part_of NEST:351 ! Ubiquitin E3 ligase (FBXW7, CUL1, SKP1A, RBX1)
+
+[Term]
+id: NEST:77
+name: COP9 signalosome/SCF ubiquitin E3 ligase complex
+relationship: part_of NEST:149 ! CUL-RING ubiquitin E3 ligase
+
+[Term]
+id: NEST:58
+name: Cyclin D associated events in G1
+relationship: part_of NEST:119 ! Regulation of E2F transcription via DREAM complex
+relationship: part_of NEST:102 ! CDK holoenzyme complex II
+
+[Term]
+id: NEST:53
+name: Integrator-PP2A complex
+relationship: part_of NEST:116 ! Protein phosphatase type 2A complex
+
+[Term]
+id: NEST:45
+name: Mediator/CCR-NOT complex
+relationship: part_of NEST:90 ! Mediator complex
+relationship: part_of NEST:68 ! RNA degradation
+
+[Term]
+id: NEST:15
+name: Cell cycle
+relationship: part_of NEST:373 ! NuA4-HAT subunit I
+relationship: part_of NEST:320 ! BAF complex subunit III
+relationship: part_of NEST:329 ! NEST:329
+relationship: part_of NEST:194 ! Histone and DNA methyltransferases
+relationship: part_of NEST:178 ! NEST:178
+relationship: part_of NEST:117 ! Regulation of TP53 Activity
+relationship: part_of NEST:112 ! Androgen receptor signaling pathway
+relationship: part_of NEST:94 ! DNA replication dependent nucleosome assembly
+relationship: part_of NEST:79 ! Recombinational repair
+relationship: part_of NEST:65 ! Cell cycle arrest
+relationship: part_of NEST:55 ! Nucleosome remodeling
+relationship: part_of NEST:50 ! Regulation of CDK activity
+relationship: part_of NEST:30 ! DNA metabolic process
+
+[Term]
+id: NEST:4
+name: Regulation of biogenesis
+relationship: part_of NEST:388 ! Phosphatase 2A catalytic core complex subunit I
+relationship: part_of NEST:384 ! NEST:384
+relationship: part_of NEST:288 ! Ribosomal protein DNA damage response
+relationship: part_of NEST:280 ! NEST:280
+relationship: part_of NEST:306 ! NEST:306
+relationship: part_of NEST:226 ! NEST:226
+relationship: part_of NEST:228 ! Extended NCOR complex
+relationship: part_of NEST:186 ! MDM2-p53 pathway
+relationship: part_of NEST:177 ! TP53 regulates transcription of cell cycle genes
+relationship: part_of NEST:158 ! Histone modifications in DNA damage response
+relationship: part_of NEST:149 ! CUL-RING ubiquitin E3 ligase
+relationship: part_of NEST:126 ! NEST:126
+relationship: part_of NEST:107 ! HDACs deacetylate histones
+relationship: part_of NEST:44 ! Nuclear transport
+relationship: part_of NEST:42 ! Transcription elongation
+relationship: part_of NEST:17 ! Ribonucleoprotein complexes II
+relationship: part_of NEST:9 ! Ribonucleoprotein complexes
+relationship: part_of NEST:6 ! Regulation of transcription
+
+[Term]
+id: NEST:84
+name: JAK-STAT signaling pathway
+relationship: part_of NEST:197 ! Interleukin-6 family signaling
+
+[Term]
+id: NEST:36
+name: Interferon signaling
+relationship: part_of NEST:43 ! Type I interferon signaling pathway
+
+[Term]
+id: NEST:29
+name: NEST:29
+relationship: part_of NEST:49 ! NEST:49
+
+[Term]
+id: NEST:22
+name: Structural constituent of muscle
+relationship: part_of NEST:27 ! Contractile fiber
+
+[Term]
+id: NEST:8
+name: Immune system
+relationship: part_of NEST:25 ! Lymphocyte activation
+relationship: part_of NEST:18 ! Regulation of immune responses
+
+[Term]
+id: NEST:7
+name: Metabolism
+relationship: part_of NEST:263 ! NEST:263
+relationship: part_of NEST:11 ! Metabolic pathways
+
+[Term]
+id: NEST:5
+name: Cell motility
+relationship: part_of NEST:357 ! Dystrophin-associated complex
+relationship: part_of NEST:294 ! Platelet-derived growth factor binding
+relationship: part_of NEST:211 ! NEST:211
+relationship: part_of NEST:20 ! Extracellular matrix organization
+relationship: part_of NEST:16 ! NEST:16
+relationship: part_of NEST:14 ! Cytoskeleton
+
+[Term]
+id: NEST:174
+name: Extended beta-catenin destruction complex
+relationship: part_of NEST:239 ! Beta-catenin destruction complex
+
+[Term]
+id: NEST:153
+name: PIK3-EGFR signaling
+relationship: part_of NEST:362 ! NEST:362
+
+[Term]
+id: NEST:145
+name: AKT/MTOR pathway I
+relationship: part_of NEST:314 ! AKT-TOR complex
+
+[Term]
+id: NEST:137
+name: AKT/MTOR pathway II
+relationship: part_of NEST:382 ! Regulatory in autophagy via inhibition of mTORC1
+relationship: part_of NEST:314 ! AKT-TOR complex
+
+[Term]
+id: NEST:127
+name: Intrinsic pathway for apoptosis
+relationship: part_of NEST:333 ! Death induced signaling complex DISC
+relationship: part_of NEST:213 ! Caspase activation via extrinsic apoptotic signalling pathway
+
+[Term]
+id: NEST:120
+name: Protein kinase A binding
+relationship: part_of NEST:141 ! AKAP-PKA complex
+
+[Term]
+id: NEST:122
+name: MAP kinases
+relationship: part_of NEST:292 ! JNK signaling MAP kinases
+
+[Term]
+id: NEST:108
+name: Adherens junction
+relationship: part_of NEST:182 ! Beta-catenin-TCF complex
+relationship: part_of NEST:142 ! EGF/beta-catenin signaling
+
+[Term]
+id: NEST:83
+name: TNF signaling pathway
+relationship: part_of NEST:333 ! Death induced signaling complex DISC
+relationship: part_of NEST:213 ! Caspase activation via extrinsic apoptotic signalling pathway
+
+[Term]
+id: NEST:81
+name: TGF-beta pathway/SMAD protein complex
+relationship: part_of NEST:378 ! NEST:378
+relationship: part_of NEST:243 ! WWP E3 ligase activity
+
+[Term]
+id: NEST:73
+name: MAPK signaling
+relationship: part_of NEST:315 ! AKT event on TSC1-TSC2 complex
+relationship: part_of NEST:104 ! MAPK and MAP2K activation
+
+[Term]
+id: NEST:60
+name: Nuclear receptor transcription pathway
+relationship: part_of NEST:384 ! NEST:384
+relationship: part_of NEST:371 ! NCOR-HDAC3 complex
+relationship: part_of NEST:210 ! Regulation of androgen receptor signaling pathway
+
+[Term]
+id: NEST:52
+name: AKT/activin signaling
+relationship: part_of NEST:335 ! PIK3-cyclin signaling
+relationship: part_of NEST:375 ! PIK3-insulin receptor signaling
+
+[Term]
+id: NEST:47
+name: Apoptosis
+relationship: part_of NEST:333 ! Death induced signaling complex DISC
+relationship: part_of NEST:274 ! BH domain binding
+relationship: part_of NEST:213 ! Caspase activation via extrinsic apoptotic signalling pathway
+
+[Term]
+id: NEST:38
+name: Transmembrane receptor tyrosine kinase signaling
+relationship: part_of NEST:372 ! MAPK regulation of MHC-I expression
+relationship: part_of NEST:311 ! NCK-cytoskeletal signaling
+relationship: part_of NEST:212 ! RAS-RAF-MAPK signaling
+relationship: part_of NEST:197 ! Interleukin-6 family signaling
+relationship: part_of NEST:195 ! NEST:195
+relationship: part_of NEST:89 ! Erb and JAK-STAT signaling
+
+[Term]
+id: NEST:32
+name: Ubiquitination and neddylation
+relationship: part_of NEST:352 ! 3M complex
+relationship: part_of NEST:105 ! Protein neddylation
+relationship: part_of NEST:77 ! COP9 signalosome/SCF ubiquitin E3 ligase complex
+relationship: part_of NEST:61 ! COP9 signalosome/Cul4-RING ubiquitin E3 ligase complex
+
+[Term]
+id: NEST:24
+name: Keratinization
+relationship: part_of NEST:136 ! Keratins
+relationship: part_of NEST:41 ! Cornification
+
+[Term]
+id: NEST:12
+name: Membrane trafficking
+relationship: part_of NEST:364 ! Exocyst complex
+relationship: part_of NEST:323 ! Proton-transporting V-type atpase, V1 domain
+relationship: part_of NEST:377 ! Sustained KRAS signalling
+relationship: part_of NEST:270 ! Phosphatidylinositol 3-kinase complex, class III
+relationship: part_of NEST:208 ! Vesicle membrane fusion
+relationship: part_of NEST:21 ! Protein processing in endoplasmic reticulum
+
+[Term]
+id: NEST:3
+name: Nucleus and ribosome
+relationship: part_of NEST:328 ! RAS/BRAF complex
+relationship: part_of NEST:374 ! NEST:374
+relationship: part_of NEST:345 ! ESCRT-III subcomplex
+relationship: part_of NEST:315 ! AKT event on TSC1-TSC2 complex
+relationship: part_of NEST:313 ! AKAP-centrosome pathway
+relationship: part_of NEST:314 ! AKT-TOR complex
+relationship: part_of NEST:270 ! Phosphatidylinositol 3-kinase complex, class III
+relationship: part_of NEST:290 ! Hsp subunit
+relationship: part_of NEST:269 ! NEST:269
+relationship: part_of NEST:289 ! NEST:289
+relationship: part_of NEST:271 ! NEST:271
+relationship: part_of NEST:296 ! VCB Complex
+relationship: part_of NEST:238 ! Activin-activated receptor activity
+relationship: part_of NEST:251 ! SMAD4-SMAD2-SMAD3 complex
+relationship: part_of NEST:189 ! Cytosolic iron-sulfur cluster assembly
+relationship: part_of NEST:168 ! CBP and p300 binds NF-kB complex
+relationship: part_of NEST:161 ! SMC5/6 and condensin co-complex
+relationship: part_of NEST:146 ! SMAD-TGFbeta signaling
+relationship: part_of NEST:134 ! RPA complex associated proteins
+relationship: part_of NEST:125 ! Extended mismatch repair complex
+relationship: part_of NEST:105 ! Protein neddylation
+relationship: part_of NEST:77 ! COP9 signalosome/SCF ubiquitin E3 ligase complex
+relationship: part_of NEST:61 ! COP9 signalosome/Cul4-RING ubiquitin E3 ligase complex
+relationship: part_of NEST:58 ! Cyclin D associated events in G1
+relationship: part_of NEST:53 ! Integrator-PP2A complex
+relationship: part_of NEST:45 ! Mediator/CCR-NOT complex
+relationship: part_of NEST:15 ! Cell cycle
+relationship: part_of NEST:4 ! Regulation of biogenesis
+
+[Term]
+id: NEST:2
+name: Cytoplasm and extracellular space
+relationship: part_of NEST:335 ! PIK3-cyclin signaling
+relationship: part_of NEST:376 ! Integrin associated focal adhesion proteins
+relationship: part_of NEST:362 ! NEST:362
+relationship: part_of NEST:375 ! PIK3-insulin receptor signaling
+relationship: part_of NEST:322 ! Complement receptor 1/2
+relationship: part_of NEST:184 ! Rho GTPase activating proteins
+relationship: part_of NEST:97 ! Ephrin receptor activity
+relationship: part_of NEST:84 ! JAK-STAT signaling pathway
+relationship: part_of NEST:36 ! Interferon signaling
+relationship: part_of NEST:29 ! NEST:29
+relationship: part_of NEST:22 ! Structural constituent of muscle
+relationship: part_of NEST:8 ! Immune system
+relationship: part_of NEST:7 ! Metabolism
+relationship: part_of NEST:5 ! Cell motility
+
+[Term]
+id: NEST
+name: NeST
+relationship: part_of NEST:3 ! Nucleus and ribosome
+relationship: part_of NEST:2 ! Cytoplasm and extracellular space
+relationship: part_of NEST:1 ! Other signaling processes
+
